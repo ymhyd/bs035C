@@ -1,5 +1,3 @@
-# bs035C
-bs035C基于Django的外卖点餐系统源码 Python Django Vue3 前后分离
 ## 源码问题查看主页咨询
 
 ### 一、关键词
